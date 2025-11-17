@@ -1,4 +1,4 @@
-# Olá, eu sou o Carlos! 👋
+# Olá, eu sou o Carlos Cardoso! 👋
 
 ### 🎓 Sobre Mim
 Sou estudante de **Sistemas de Informação** na **UFVJM** (Universidade Federal dos Vales do Jequitinhonha e Mucuri). Sou apaixonado por tecnologia e focado no desenvolvimento de software, buscando sempre transformar problemas reais em soluções através do código.
@@ -40,5 +40,5 @@ Aqui estão alguns dos projetos que desenvolvi durante a graduação:
 ---
 
 ### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/carlos-cardoso-95a450238)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu_email@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-cardoso-95a450238)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.cardoso@ufvjm.edu.br)
