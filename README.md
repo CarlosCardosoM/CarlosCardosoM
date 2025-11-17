@@ -5,7 +5,7 @@ Sou estudante de **Sistemas de Informação** na **UFVJM** (Universidade Federal
 
 Atualmente, estou aprofundando meus conhecimentos em **Desenvolvimento Back-end** e **Engenharia de Software**.
 
----
+
 
 ### 🛠️ Tecnologias & Ferramentas
 Aqui estão as principais tecnologias que utilizo nos meus projetos acadêmicos e pessoais:
@@ -16,7 +16,7 @@ Aqui estão as principais tecnologias que utilizo nos meus projetos acadêmicos 
 #### Banco de Dados & Outros
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
+
 
 ### 🚀 Projetos em Destaque
 
@@ -29,7 +29,7 @@ Aqui estão alguns dos projetos que desenvolvi durante a graduação:
 | **Engenharia Web** | `Python` `HTML` `CSS` | Aplicação web completa desenvolvida para a disciplina de Engenharia Web. |
 | **Consultas SQL** | `SQL` `Database` | Scripts avançados de modelagem e consulta de banco de dados (Query optimization). |
 
----
+
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
@@ -37,7 +37,7 @@ Aqui estão alguns dos projetos que desenvolvi durante a graduação:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCardosoM&layout=compact&theme=dracula"/>
 </div>
 
----
+
 
 ### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-cardoso-95a450238)
