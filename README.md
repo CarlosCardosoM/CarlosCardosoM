@@ -40,5 +40,5 @@ Aqui estão alguns dos projetos que desenvolvi durante a graduação:
 ---
 
 ### 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Link_do_seu_LinkedIn_Aqui](https://www.linkedin.com/in/carlos-cardoso-95a450238)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/carlos-cardoso-95a450238)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu_email@exemplo.com)
